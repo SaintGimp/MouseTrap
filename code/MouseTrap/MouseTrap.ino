@@ -1,6 +1,8 @@
 #include <Bounce2.h>
 
 // Targeted at ATTiny85
+// Use https://github.com/SpenceKonde/ATTinyCore board package
+// ATTiny85 chip is 1Mhz by default
 
 #define LED_PIN 1
 #define PHOTOTRANSISTOR_PIN 2
