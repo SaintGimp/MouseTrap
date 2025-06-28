@@ -21,8 +21,8 @@ barrierSensor.direction = digitalio.Direction.INPUT
 solenoid = digitalio.DigitalInOut(board.D11)
 solenoid.direction = digitalio.Direction.OUTPUT
 
-# This is hardware dependent. Upgrade to JLed and hack it
-# to talk to the Neopixel
+# The pulse rate is hardware dependent on clock speed and the value of brightnessStep.
+# Upgrade to JLed and hack it to talk to the Neopixel?
 # https://github.com/jandelgado/jled-circuitpython
 rgbLed = neopixel.NeoPixel(board.NEOPIXEL, 1)
 rgbLed[0] = (0, 255, 0)
