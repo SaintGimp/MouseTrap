@@ -3439,7 +3439,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal"
+		(property "Footprint" "SaintGimp:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal"
 			(at 54.61 95.25 0)
 			(effects
 				(font
@@ -3572,7 +3572,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-3_1x03_P2.54mm_Horizontal"
+		(property "Footprint" "SaintGimp:TerminalBlock_TE_282834-3_1x03_P2.54mm_Horizontal"
 			(at 66.04 81.28 0)
 			(effects
 				(font
@@ -3722,7 +3722,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Module:Adafruit_Feather"
+		(property "Footprint" "SaintGimp:Adafruit_Feather"
 			(at 118.11 121.92 0)
 			(effects
 				(font
@@ -4136,7 +4136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal"
+		(property "Footprint" "SaintGimp:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal"
 			(at 66.04 74.93 0)
 			(effects
 				(font
